@@ -1,8 +1,11 @@
 # CodewarsPHP
+
 ---
+
 ![My image][2]
 
 ---
+
 ##Solving problems of different difficulty levels on [Codewars][1]
 
 ###level 8kyu - is the easiest
