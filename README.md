@@ -1,8 +1,6 @@
 # CodewarsPHP
 
----
-
-![My image][2]
+![My image](https://www.codewars.com/users/Hennadii/badges/large?logo=false)
 
 ---
 
@@ -15,4 +13,3 @@
 
 [1]: https://www.codewars.com/trainer/setup
 
-[2]: https://www.codewars.com/users/Hennadii/badges/large?logo=false
